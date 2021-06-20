@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62c2fad1-5dcf-495d-949e-466654f41875" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="fav">
+      <favorite_root url="file://$PROJECT_DIR$/Ch06/Object_Image_Recognition.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/Ch06/Text_Image_Recognition.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Programs/Object_Image_Recognition.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Programs/Text_Image_Recognition.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>listbox</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Ch03/03_loading_image_dataset.py" />
+        <option value="$PROJECT_DIR$/Ch03/04_dense_layers.py" />
+        <option value="$PROJECT_DIR$/Ch03/05_convolutional_layers.py" />
+        <option value="$PROJECT_DIR$/Ch03/06_max_pooling.py" />
+        <option value="$PROJECT_DIR$/Ch03/07_dropout.py" />
+        <option value="$PROJECT_DIR$/Ch03/08_complete_neural_net.py" />
+        <option value="$PROJECT_DIR$/Ch04/01_neural_network_training.py" />
+        <option value="$PROJECT_DIR$/Ch04/02_training_and_saving_weights.py" />
+        <option value="$PROJECT_DIR$/Ch05/02_image_recognition_pretrained.py" />
+        <option value="$PROJECT_DIR$/Ch05/04_feature_extraction.py" />
+        <option value="$PROJECT_DIR$/Ch05/06_making_predictions.py" />
+        <option value="$PROJECT_DIR$/Ch06/cloud_image_recognition.py" />
+        <option value="$PROJECT_DIR$/Ch04/03_making_predictions.py" />
+        <option value="$PROJECT_DIR$/Ch06/cloud_image_recognition final.py" />
+        <option value="$PROJECT_DIR$/Ch06/cloud_text_recognition.py" />
+        <option value="$PROJECT_DIR$/Ch06/Text_Image_Recognition.py" />
+        <option value="$PROJECT_DIR$/Ch06/Object_Image_Recognition.py" />
+        <option value="$PROJECT_DIR$/../Lynda - Deep Learning Image Recognition/Ex_Files_Deep_Learning_Image_Recog/Exercise Files/Ch04/03_making_predictions.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="870" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WEB701Assignment3_Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WEB701Assignment3_Programs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WEB701Assignment3_Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WEB701Assignment3_Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="Programs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ch06/Text_Image_Recognition.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\dxhhh\OneDrive\Documents\NMIT\2019\WEB701\Assessment 3\Lynda - Deep Learning Image Recognition\Ex_Files_Deep_Learning_Image_Recog\Exercise Files\Ch06" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\dxhhh\OneDrive\Documents\NMIT\2019\WEB701\Assessment 3\Lynda - Deep Learning Image Recognition\Ex_Files_Deep_Learning_Image_Recog\Exercise Files\Ch06" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Text_Image_Recognition">
+    <configuration name="03_making_predictions (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercise Files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Lynda - Deep Learning Image Recognition/Ex_Files_Deep_Learning_Image_Recog/Exercise Files/Ch04" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lynda - Deep Learning Image Recognition/Ex_Files_Deep_Learning_Image_Recog/Exercise Files/Ch04/03_making_predictions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Object_Image_Recognition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercise Files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/Object_Image_Recognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Text_Image_Recognition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercise Files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/Text_Image_Recognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cloud_image_recognition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercise Files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch06/cloud_image_recognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cloud_text_recognition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercise Files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch06/Text_Image_Recognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.03_making_predictions (1)" />
+      <item itemvalue="Python.Object_Image_Recognition" />
+      <item itemvalue="Python.cloud_image_recognition" />
+      <item itemvalue="Python.cloud_text_recognition" />
+      <item itemvalue="Python.Text_Image_Recognition" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Text_Image_Recognition" />
+        <item itemvalue="Python.Object_Image_Recognition" />
+        <item itemvalue="Python.Object_Image_Recognition" />
+        <item itemvalue="Python.cloud_text_recognition" />
+        <item itemvalue="Python.03_making_predictions (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62c2fad1-5dcf-495d-949e-466654f41875" name="Default Changelist" comment="" />
+      <created>1559614853383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559614853383</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.021796566" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37935844" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32914925" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.31520224" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.021796566" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37935844" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32914925" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.31520224" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Ch03/03_loading_image_dataset final.py" />
+    <entry file="file://$PROJECT_DIR$/Ch03/02_view_image_data_set.py" />
+    <entry file="file://$PROJECT_DIR$/Ch03/03_loading_image_dataset.py" />
+    <entry file="file://$PROJECT_DIR$/Ch03/04_dense_layers.py" />
+    <entry file="file://$PROJECT_DIR$/Ch03/05_convolutional_layers.py" />
+    <entry file="file://$PROJECT_DIR$/Ch03/06_max_pooling.py" />
+    <entry file="file://$PROJECT_DIR$/Ch03/07_dropout.py" />
+    <entry file="file://$PROJECT_DIR$/Ch03/08_complete_neural_net.py" />
+    <entry file="file://$PROJECT_DIR$/Ch04/01_neural_network_training.py" />
+    <entry file="file://$PROJECT_DIR$/Ch04/02_training_and_saving_weights.py" />
+    <entry file="file://$PROJECT_DIR$/Ch05/bay.jpg" />
+    <entry file="file://$PROJECT_DIR$/Ch05/dog.png" />
+    <entry file="file://$PROJECT_DIR$/Ch05/02_image_recognition_pretrained.py" />
+    <entry file="file://$PROJECT_DIR$/Ch04/car2.png" />
+    <entry file="file://$PROJECT_DIR$/Ch05/04_feature_extraction.py" />
+    <entry file="file://$PROJECT_DIR$/Ch05/05_training_with_extracted_features.py" />
+    <entry file="file://$PROJECT_DIR$/Ch06/WEB701Assignment3-62e5d3f5e784.json" />
+    <entry file="file://$PROJECT_DIR$/Ch05/06_making_predictions.py" />
+    <entry file="file://$PROJECT_DIR$/Ch04/03_making_predictions.py" />
+    <entry file="file://$PROJECT_DIR$/Ch06/credentials.json" />
+    <entry file="file://$PROJECT_DIR$/Ch06/cloud_image_recognition final.py" />
+    <entry file="file://D:/xampp/htdocs/TestSite/cloud_image_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/xampp/htdocs/TestSite/pyForm.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch06/cloud_text_recognition.py" />
+    <entry file="file://$PROJECT_DIR$/Ch06/cloud_image_recognition.py" />
+    <entry file="file://$PROJECT_DIR$/Ch06/Text_Image_Recognition.py" />
+    <entry file="file://$PROJECT_DIR$/Ch06/Object_Image_Recognition.py" />
+    <entry file="file://$PROJECT_DIR$/../Lynda - Deep Learning Image Recognition/Ex_Files_Deep_Learning_Image_Recog/Exercise Files/Ch04/02_training_and_saving_weights.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="59" column="39" lean-forward="true" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lynda - Deep Learning Image Recognition/Ex_Files_Deep_Learning_Image_Recog/Exercise Files/Ch04/03_making_predictions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/Object_Image_Recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/Text_Image_Recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
